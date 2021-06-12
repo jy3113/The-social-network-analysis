@@ -1,6 +1,6 @@
 # The-social-network-analysis
 
-# Degree Centrality
+# Degree Centrality.
 
 
 
